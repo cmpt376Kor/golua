@@ -1,8 +1,10 @@
-WARNING! Please expect breaking changes and unstable APIs. Most of them are currently at an early, experimental stage.
+ # WARNING! 
+ 
+ Please expect any breaking changes and unstable APIs. Most of them are currently at an early, experimental stage.
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcome any contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
